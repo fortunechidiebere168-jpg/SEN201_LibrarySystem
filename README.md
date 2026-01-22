@@ -56,3 +56,45 @@ Each class represents a real-world entity and contains relevant attributes and m
 The project is implemented in Python using separate modules for clarity and maintainability.
 
 #### Project Structure:
+
+---
+
+### 4️⃣ Testing
+The system was tested by:
+- Adding multiple books and students
+- Issuing and returning books
+- Searching for books
+- Verifying correct status updates
+
+---
+
+### 5️⃣ Deployment
+The project is deployed using **GitHub** as the version control platform.  
+All source code files are pushed to a public GitHub repository.
+
+---
+
+### 6️⃣ Maintenance
+The system is designed to be easily extendable.  
+Future improvements may include:
+- Database integration
+- User authentication
+- Graphical User Interface (GUI)
+- Web-based implementation
+
+---
+
+## 🧠 Key Features
+- Book management
+- Student registration
+- Book issue and return system
+- Book availability tracking
+- Search functionality
+- Modular and clean code structure
+
+---
+
+## ▶️ How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/SEN201_ProfessionalLibrarySystem.git
