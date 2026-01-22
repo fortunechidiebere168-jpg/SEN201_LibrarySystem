@@ -1,5 +1,5 @@
 # SEN201_LibrarySystem
-# SEN201 Professional Library Management System
+# SEN201 Library Management System
 
 ## 📌 Course Information
 - **Course Code:** SEN 201
@@ -11,7 +11,7 @@
 ---
 
 ## 📖 Project Overview
-The **Professional Library Management System (LMS)** is a Python-based application designed to manage library operations efficiently.  
+The **Library Management System (LMS)** is a Python-based application designed to manage library operations efficiently.  
 The system allows librarians to manage books and students, issue and return books, track availability, and search for books.
 
 This project demonstrates the **full Software Development Life Cycle (SDLC)** from requirement analysis to deployment.
